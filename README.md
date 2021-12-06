@@ -11,7 +11,7 @@
 <img width="175" alt="Screen Shot 2021-12-05 at 11 09 42 PM" src="https://user-images.githubusercontent.com/33046642/144785843-76ff119e-dfa3-4deb-9750-50f7726e26a4.png">
 
 - This company has majority of senior engineers of overall employment staff which means they will have to find more engineers to take their place once they retire. 
-- There are 417 employees eligibile for mentorship are for Senior Staff roles which is also the majority. 
+- According to the mentorship_elibility data, there are 417 employees eligibile for mentorship are for Senior Staff roles which is also the majority. 
 - There are three roles in Engineering: Assistant Engineer, Engineer, and Senior Engineer. There are total of 748 employees eligible for engineer mentorship. 
 
 ## Summary
